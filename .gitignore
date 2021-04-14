@@ -2,5 +2,6 @@
 .idea/
 baxter_project.iml
 pom.xml
+!orderStatus/pom.xml
 .src/
 orderStatus/target/
