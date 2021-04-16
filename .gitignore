@@ -1,7 +1,7 @@
 .DS_Store
-.idea/
+/.idea/
 baxter_project.iml
 pom.xml
 !orderStatus/pom.xml
-.src/
+/src/
 orderStatus/target/
